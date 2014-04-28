@@ -364,3 +364,10 @@ fieldset p{}
 
 
 
+
+/*ie*/
+
+#test{behavior: url(pie.htc);position:relative;}
+#test{ -pie-background: linear-gradient(top, #BAAF9F 50%, #B4A896 100%); }
+
+
